@@ -25,22 +25,6 @@ Hi, I'm **Shubhamnpk** — a passionate full-stack developer specializing in **T
 - **Testing:** Automated testing practices
 - **CI/CD:** Modern deployment pipelines
 
----
-
-## 📊 Project Statistics
-
-| Project | Language | Status | Stars |
-|---------|----------|--------|-------|
-| MyWallet | TypeScript | Active | ⭐ |
-| YoYTMusic API | Python | Active | ⭐ |
-| YoRadio API | HTML/Python | Active | ⭐1 |
-| YoNews | TypeScript | Active | ⭐ |
-| BitAI | TypeScript | Active | ⭐ |
-| Earno | TypeScript | Active | ⭐ |
-| ShikshaNepal | TypeScript | Active | ⭐ |
-
----
-
 ## 🎯 What I Do Best
 
 ✨ **Full-Stack Development** — From concept to production deployment  
@@ -49,16 +33,6 @@ Hi, I'm **Shubhamnpk** — a passionate full-stack developer specializing in **T
 🚀 **Performance** — Optimizing applications for speed and reliability  
 📚 **Open Source** — Contributing to and maintaining community projects  
 🌍 **Nepal-Focused Tech** — Building solutions for local communities  
-
----
-
-## 🌐 Connect With Me
-
-- **GitHub:** [@Shubhamnpk](https://github.com/Shubhamnpk)
-- **Portfolio Projects:** Explore all repositories above
-- **Topics:** Finance Tech, Music APIs, Educational Tech, Open Source
-
----
 
 ## 📝 License & Open Source
 
