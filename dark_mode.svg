@@ -1,22 +1,22 @@
 <svg width="960" height="248" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 960 248">
-  <!-- Light mode profile card for Shubhamnpk -->
+  <!-- Dark mode profile card for Shubhamnpk -->
   <defs>
     <style>
-      @media (prefers-color-scheme: light) {
-        text { fill: #0969da; }
+      @media (prefers-color-scheme: dark) {
+        text { fill: #58a6ff; }
       }
     </style>
   </defs>
-  <rect width="100%" height="100%" fill="#ffffff" rx="8"/>
-  <rect width="100%" height="100%" fill="none" stroke="#d0d7de" stroke-width="1" rx="8"/>
+  <rect width="100%" height="100%" fill="#0d1117" rx="8"/>
+  <rect width="100%" height="100%" fill="none" stroke="#30363d" stroke-width="1" rx="8"/>
   
-  <text x="20" y="50" font-size="28" fill="#0969da" font-family="monospace" font-weight="bold">
+  <text x="20" y="50" font-size="28" fill="#58a6ff" font-family="monospace" font-weight="bold">
     ╔═══════════════════════════════════╗
   </text>
-  <text x="20" y="85" font-size="20" fill="#0969da" font-family="monospace" font-weight="bold">
+  <text x="20" y="85" font-size="20" fill="#58a6ff" font-family="monospace" font-weight="bold">
     Shubhamnpk
   </text>
-  <text x="20" y="115" font-size="12" fill="#57606a" font-family="monospace">
+  <text x="20" y="115" font-size="12" fill="#8b949e" font-family="monospace">
     Full-Stack Developer • TypeScript • Python • React • Next.js
   </text>
   <text x="20" y="140" font-size="12" fill="#6e7681" font-family="monospace">
@@ -25,7 +25,7 @@
   <text x="20" y="165" font-size="12" fill="#6e7681" font-family="monospace">
     📍 github.com/Shubhamnpk
   </text>
-  <text x="20" y="200" font-size="11" fill="#848d97" font-family="monospace">
+  <text x="20" y="200" font-size="11" fill="#484f58" font-family="monospace">
     ╚═══════════════════════════════════╝
   </text>
 </svg>
