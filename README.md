@@ -1,6 +1,12 @@
- 👋 Welcome to My Portfolio
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Shubhamnpk's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-Hi, I'm **Shubhamnpk** — a passionate full-stack developer specializing in **TypeScript, Python, and modern web technologies**. I build elegant, user-centric applications with a focus on performance, security, and exceptional user experience.
+👋 Welcome to My Portfolio
+
+Hi, I'm **Shubhamnpk** — a passionate full-stack developer specializing in **TypeScript, Python, and modern web technologies**. I build elegant, user-centric applications with a focus on performance[...]
 
 ---
 ## Tech Stack & Expertise
@@ -34,7 +40,7 @@ Hi, I'm **Shubhamnpk** — a passionate full-stack developer specializing in **T
 
 ##  License & Open Source
 
-Most of my projects are released under the **MIT License**, encouraging community contributions and collaboration. I believe in building in the open and welcome feedback, feature requests, and pull requests!
+Most of my projects are released under the **MIT License**, encouraging community contributions and collaboration. I believe in building in the open and welcome feedback, feature requests, and pull re[...]
 
 ---
 
